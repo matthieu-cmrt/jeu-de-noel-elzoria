@@ -1,0 +1,6 @@
+C:\Users\Matthieu CAMART\Desktop\Jeu Noel\ElZoria\ElZoria\bin\Debug\ElZoria.exe
+C:\Users\Matthieu CAMART\Desktop\Jeu Noel\ElZoria\ElZoria\bin\Debug\ElZoria.pdb
+C:\Users\Matthieu CAMART\Desktop\Jeu Noel\ElZoria\ElZoria\obj\Debug\ElZoria.csprojResolveAssemblyReference.cache
+C:\Users\Matthieu CAMART\Desktop\Jeu Noel\ElZoria\ElZoria\obj\Debug\ElZoria.csproj.CoreCompileInputs.cache
+C:\Users\Matthieu CAMART\Desktop\Jeu Noel\ElZoria\ElZoria\obj\Debug\ElZoria.exe
+C:\Users\Matthieu CAMART\Desktop\Jeu Noel\ElZoria\ElZoria\obj\Debug\ElZoria.pdb
